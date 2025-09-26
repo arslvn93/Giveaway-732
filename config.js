@@ -1,32 +1,32 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win a $250 Date Night at Piano Piano Oakville!",
+    "navBrandLogoText": "DAVID CORONA",
+    "privacyPolicyLink": "[Add your privacy policy URL]"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2025-07-26T03:59:00.000Z",
+    "heroHeadline": "Win <span class='highlight'>$250 Date Night</span> at Piano Piano in Oakville!",
+    "heroSubheadline": "Treat two to pasta, pizza, and cozy vibes. You get a $250 gift card. You pick the night and book your own table. Entry ends October 31, 2025.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3sx5eq6pk1rmc0csgt7bsp1218.jpg",
+    "promotionDates": "Enter Oct 14–Oct 31, 2025. Winner drawn Oct 31, 2025.",
+    "endDate": "2025-11-01T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter Our Date Night!",
+    "name": "Date Dreams Giveaway — Piano Piano Oakville",
+    "successModalHeaderText": "You're In!",
+    "successModalMainMessage": "Your entry for the <strong>Date Dreams Giveaway — Piano Piano Oakville</strong> is in! We will draw the winner on October 31, 2025 and email them. If you win, you will receive a $250 gift card and you will book your own table.",
+    "successModalEmailPrompt": "Please check your inbox (and spam) on October 31, 2025. We'll also post the winner on Instagram and Facebook."
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
+      "#E91E63",
+      "#FFC107",
       "#FFFFFF"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
+    "primaryColorOverride": "",
+    "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
@@ -35,91 +35,99 @@ const config = {
   },
   "thankYouPage": {
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+    "headerText": "You're In!",
+    "mainMessage": "Your entry for the <strong>Date Dreams Giveaway — Piano Piano Oakville</strong> is in. We will draw the winner on October 31, 2025 and email them. If you win, you will get a $250 gift card and you will book your own table. Good luck!",
+    "socialPromptText": "Watch your email on Oct 31. We will also post the winner on Instagram and Facebook."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/j5ksw31wfsrma0csgt7vtrqddg.jpg",
+        "alt": "Couple enjoying dinner at Piano Piano Oakville"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/atk0yd4t51rm80csgt7tnv5pdm.jpg",
+        "alt": "Close-up of pasta and pizza at a cozy restaurant"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/czrhrxfsrhrmc0csgt7vb4jwq0.jpg",
+        "alt": "Romantic table setting with warm lights"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/anet4jtsahrmc0csgt88jek9r0.jpg",
+        "alt": "Happy couple toasting at dinner"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-gift",
+        "text": "$250 Piano Piano gift card"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-utensils",
+        "text": "Dinner for two vibes: pasta, pizza, dessert"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-calendar-check",
+        "text": "Use any night you choose (subject to availability)"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-heart",
+        "text": "Perfect for date night or an anniversary"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-map-marker-alt",
+        "text": "Oakville location — easy night out"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Date Dreams: Piano Piano Oakville for Two",
+    "value": "$250 Value",
+    "description": "Picture this: you and your person. Warm lights. Great music. Rich pasta. Crispy pizza. Laughs all night. This prize is a $250 gift card to Piano Piano Oakville. Use it for a perfect dinner for two. You book your own table on the date and time that fits you. Simple. Special. Yours.",
+    "limitedTimeOfferText": "Limited Fall Giveaway — Ends Oct 31!",
+    "ctaButtonText": "I Want This Date Night!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
         "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "description": "Add your name and email. It takes 30 seconds."
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-check-circle",
+        "title": "Answer Quick Questions",
+        "description": "Tell us a bit about your home needs. Super simple."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You're Entered!",
+        "description": "We draw on Oct 31 and email the winner."
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "30-second entry"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "Free to enter"
       },
       {
         "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "text": "Made for couples"
       },
       {
-        "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "icon": "fas fa-random",
+        "text": "Fair random draw"
+      },
+      {
+        "icon": "fas fa-map-marker-alt",
+        "text": "Local Oakville favorite"
+      },
+      {
+        "icon": "fas fa-user-friends",
+        "text": "Prize covers two"
       }
     ]
   },
@@ -128,49 +136,61 @@ const config = {
     "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Anyone 18+ who lives in Ontario can enter. One entry per person."
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "What is the prize?",
+        "a": "A $250 gift card to Piano Piano Oakville for a date night for two."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "Do I need to book the table?",
+        "a": "Yes. You pick your date and book your own table. The gift card covers your spend up to $250."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "Are there blackout dates?",
+        "a": "No blackout dates from us. Your night depends on the restaurant’s availability."
+      },
+      {
+        "q": "Do I need to be a client?",
+        "a": "No. This is a free community giveaway. No purchase needed."
+      },
+      {
+        "q": "How will you use my info?",
+        "a": "We will send giveaway updates and helpful local home tips. You can opt out anytime."
+      },
+      {
+        "q": "Is this sponsored by Piano Piano?",
+        "a": "No. This giveaway is not sponsored by or affiliated with Piano Piano."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Double-check your email so we can reach you",
+      "Tell your partner or friends to enter too",
+      "Follow DAVID CORONA on Instagram or Facebook for the winner post",
+      "If you win, book your table early to get your preferred date"
     ],
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Winner Selection",
+      "text": "We pick the winner by random draw. Every valid entry has the same chance. No tricks. No purchase needed."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Winner Notification",
+      "text": "We will email the winner on October 31, 2025. Please check your inbox and spam. We will also post the winner on our Instagram and Facebook for transparency."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2FGiveaway-732.netlify.app",
+      "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-732.netlify.app&text=Win%20a%20%24250%20Date%20Night%20at%20Piano%20Piano%20Oakville!"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don’t miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!"
+    "subtitle": "Enter your details for a chance to win this $250 date night for two!",
+    "entryCountText": "Join other local couples entering now!",
+    "socialSharePrompt": "Share this with your partner or friends who love great food:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1757969005264_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -192,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1757969005264_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -200,8 +220,8 @@ const config = {
           "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
           "value": "Not at the moment",
@@ -214,7 +234,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1757969005264_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -238,31 +258,31 @@ const config = {
   ],
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/Coronagrouprealty",
+      "instagram": "https://instagram.com/_davidcoronaa"
     },
     "agentContact": {
-      "name": "Julian Kashani",
+      "name": "DAVID CORONA",
       "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "phone": "416-878-1577",
+      "email": "david@coronagrp.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "footerDisclaimer": "This giveaway is sponsored by DAVID CORONA and is not affiliated with Piano Piano. Contest closes October 31, 2025 at 11:59 PM ET. Winner will be selected at random from eligible entries. Must be 18+ and an Ontario resident to enter. No purchase necessary. Prize delivered as a $250 gift card; restaurant policies and availability apply.",
+    "organizerLogoUrl": "[Add your logo URL]",
+    "secondaryLogoUrl": "[Add your brokerage logo URL]",
+    "secondaryLogoAlt": "Brokerage Logo",
+    "organizerName": "DAVID CORONA",
+    "brokerageName": "[Add Brokerage Name]",
+    "address": "[Add Brokerage Address]",
+    "email": "david@coronagrp.ca",
+    "phone": "416-878-1577",
+    "copyrightOwner": "DAVID CORONA"
   },
   "deploymentInfo": {
-    "repoName": "Giveaway-558",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-558",
-    "netlifyUrl": "http://Giveaway-558.netlify.app",
+    "repoName": "Giveaway-732",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-732",
+    "netlifyUrl": "http://Giveaway-732.netlify.app",
     "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "tag": "Piano Piano Date Night Giveaway"
   }
 };
